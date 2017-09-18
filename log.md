@@ -4,7 +4,7 @@
 
 **Today's Progress**: Started an express app from scratch. 
 
-**Thoughts:** Express was a bit complex for me, but I'm excited to get the hang of it while I continue and practice with some courses and projects. 
+**Thoughts:** The first time I learned Express it was a bit complex for me, but I'm excited to get the hang of it while I continue and practice with some courses and projects. 
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
 
