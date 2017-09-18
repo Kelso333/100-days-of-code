@@ -6,6 +6,6 @@
 
 **Thoughts:** Express was a bit complex for me, but I'm excited to get the hang of it while I continue and practice with some courses and projects. 
 
-**Link to work:** <a href="https://github.com/Kelso333/customerapp">Customer App</a>
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
 
 
