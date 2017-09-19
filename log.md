@@ -8,4 +8,10 @@
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
 
+### Day 2: September 18, 2017
 
+**Today's Progress**: Got customer names to show up and built a form. 
+
+**Thoughts:** It's making a bit more sense now. I'm loving it though. Feels good. 
+
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
