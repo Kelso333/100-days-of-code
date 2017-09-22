@@ -8,6 +8,7 @@
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
 
+
 ### Day 2: September 18, 2017
 
 **Today's Progress**: Got customer names to show up and built a form. 
@@ -16,10 +17,20 @@
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
 
+
 ### Day 3: September 20, 2017 
 
-**Today's Progress**: User info is being saved, getting into database.
+**Today's Progress**: User info is being saved, getting into database. Installed Express Validator.
 
 **Thoughts:** Eventhough some of it makes sense, it's starting to get a little confusing. Need more repetition.
+
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
+
+
+### Day 4: September 21, 2017 
+
+**Today's Progress**: Was able to add users to database and delete customers. Installed MongoJS.
+
+**Thoughts:** It felt good to get into database and finish this small project. Might continue to add full CRUD or styling. Need more repetition with Express.
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
