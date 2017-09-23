@@ -34,3 +34,12 @@
 **Thoughts:** It felt good to get into database and finish this small project. Might continue to add full CRUD or styling. Need more repetition with Express.
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
+
+
+### Day 5: September 22, 2017 
+
+**Today's Progress**: Started a bookmark app. Used bootstrap template and JS.
+
+**Thoughts:** JS is making more sense now, but more repetition is needed. 
+
+**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Customer App</a>
