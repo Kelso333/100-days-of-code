@@ -42,4 +42,4 @@
 
 **Thoughts:** JS is making more sense now, but more repetition is needed. 
 
-**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Customer App</a>
+**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App</a>
