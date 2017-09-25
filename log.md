@@ -31,7 +31,7 @@
 
 **Today's Progress**: Was able to add users to database and delete customers. Installed MongoJS.
 
-**Thoughts:** It felt good to get into database and finish this small project. Might continue to add full CRUD or styling. Need more repetition with Express.
+**Thoughts:** It felt good to get into database and finish this small project. Need more repetition with Express.
 
 **Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
 
