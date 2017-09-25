@@ -6,7 +6,7 @@
 
 **Thoughts:** The first time I learned Express it was a bit complex for me, but I'm excited to get the hang of it while I continue and practice with some courses and projects. 
 
-**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App_Code</a>
 
 
 ### Day 2: September 18, 2017
@@ -15,7 +15,7 @@
 
 **Thoughts:** It's making a bit more sense now. I'm loving it though. Feels good. 
 
-**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App_Code</a>
 
 
 ### Day 3: September 20, 2017 
@@ -24,7 +24,7 @@
 
 **Thoughts:** Eventhough some of it makes sense, it's starting to get a little confusing. Need more repetition.
 
-**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App_Code</a>
 
 
 ### Day 4: September 21, 2017 
@@ -33,7 +33,7 @@
 
 **Thoughts:** It felt good to get into database and finish this small project. Need more repetition with Express.
 
-**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App</a>
+**Link to work:** <a href="https://github.com/Kelso333/customerapp" target="_blank">Customer App_Code</a>
 
 
 ### Day 5: September 22, 2017 
@@ -42,7 +42,7 @@
 
 **Thoughts:** JS is making more sense now, but more repetition is needed. 
 
-**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App</a>
+**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App_Code</a>
 
 
 ### Day 6: September 23, 2017 
@@ -51,4 +51,4 @@
 
 **Thoughts:** JavaScript is amazing. So much you can do with it.  
 
-**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App</a>
+**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App_Code</a>
