@@ -43,3 +43,12 @@
 **Thoughts:** JS is making more sense now, but more repetition is needed. 
 
 **Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App</a>
+
+
+### Day 6: September 23, 2017 
+
+**Today's Progress**: Finished app, and was able to successfully add a bookmark, visit the link, and delete the bookmark.
+
+**Thoughts:** JavaScript is amazing. So much you can do with it.  
+
+**Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App</a>
