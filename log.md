@@ -52,3 +52,12 @@
 **Thoughts:** JavaScript is amazing. So much you can do with it.  
 
 **Link to work:** <a href="https://github.com/Kelso333/bookmarkapp" target="_blank">Bookmark App_Code</a>
+
+
+### Day 7: September 25, 2017 
+
+**Today's Progress**: Started a Todo List App. Was able to add CSS and get the input started
+
+**Thoughts:** Can't wait to start messing with JS in this project.  
+
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
