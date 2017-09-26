@@ -56,7 +56,7 @@
 
 ### Day 7: September 25, 2017 
 
-**Today's Progress**: Started a Todo List App. Was able to add CSS and get the input started
+**Today's Progress**: Started a Todo List App. Added CSS and get the input started.
 
 **Thoughts:** Can't wait to start messing with JS in this project.  
 
