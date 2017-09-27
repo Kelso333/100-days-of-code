@@ -61,3 +61,12 @@
 **Thoughts:** Can't wait to start messing with JS in this project.  
 
 **Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+
+
+### Day 8: September 26, 2017 
+
+**Today's Progress**: Added svg files for buttons. Aligned todo list and added the remove button. 
+
+**Thoughts:** I'm learning a lot of CSS skills, even though it seems a little confusing but it will connect. Still waiting to get started with JS.
+
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
