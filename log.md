@@ -70,3 +70,12 @@
 **Thoughts:** I'm learning a lot of CSS skills, even though it seems a little confusing but it will connect. Still waiting to get started with JS.
 
 **Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+
+
+### Day 8: September 27, 2017 
+
+**Today's Progress**: User is able to add a todo task, delete the task and complete the task. Completed tasks will be placed below the tasks that need to be completed. 
+
+**Thoughts:** It was a great project because we used a lot of CSS techniques I've never used before (but have seen). We got into JS and I was excited. JS made a bit more sense here, but I still want to continue getting more hands on with JS.
+
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
