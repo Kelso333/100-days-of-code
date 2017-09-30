@@ -79,3 +79,12 @@
 **Thoughts:** It was a great project because we used a lot of CSS techniques I've never used before (but have seen). We got into JS and I was excited. JS made a bit more sense here, but I still want to continue getting more hands on with JS.
 
 **Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+
+### Day 8: September 29, 2017 
+
+**Today's Progress**: Added a few extra features and styling. The user knows there is a todo list and completed section. User can hit enter to submit a task. All tasks are in a data object and stored in local storage so tasks remain visible even when browser closes.
+
+**Thoughts:** I enjoyed seeing what JS can do and getting hands on. This video used a lot of pseudo in styling, which I haven't used as much; it did help to see it.
+
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+
