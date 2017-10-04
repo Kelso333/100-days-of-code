@@ -60,7 +60,7 @@
 
 **Thoughts:** Can't wait to start messing with JS in this project.  
 
-**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp" target="_blank">Todo List App_Code</a>
 
 
 ### Day 8: September 26, 2017 
@@ -69,7 +69,7 @@
 
 **Thoughts:** I'm learning a lot of CSS skills, even though it seems a little confusing but it will connect. Still waiting to get started with JS.
 
-**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp" target="_blank">Todo List App_Code</a>
 
 
 ### Day 9: September 27, 2017 
@@ -78,7 +78,7 @@
 
 **Thoughts:** It was a great project because we used a lot of CSS techniques I've never used before (but have seen). We got into JS and I was excited. JS made a bit more sense here, but I still want to continue getting more hands on with JS.
 
-**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp" target="_blank">Todo List App_Code</a>
 
 ### Day 10: September 29, 2017 
 
@@ -86,7 +86,7 @@
 
 **Thoughts:** I enjoyed seeing what JS can do and getting hands on. This video used a lot of pseudo in styling, which I haven't used as much; it did help to see it.
 
-**Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+**Link to work:** <a href="https://github.com/Kelso333/todolistapp" target="_blank">Todo List App_Code</a>
 
 
 ### Day 11: October 4, 2017 
