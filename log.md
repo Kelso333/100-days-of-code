@@ -72,7 +72,7 @@
 **Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
 
 
-### Day 8: September 27, 2017 
+### Day 9: September 27, 2017 
 
 **Today's Progress**: User is able to add a todo task, delete the task and complete the task. Completed tasks will be placed below the tasks that need to be completed. 
 
@@ -80,11 +80,20 @@
 
 **Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
 
-### Day 8: September 29, 2017 
+### Day 10: September 29, 2017 
 
 **Today's Progress**: Added a few extra features and styling. The user knows there is a todo list and completed section. User can hit enter to submit a task. All tasks are in a data object and stored in local storage so tasks remain visible even when browser closes.
 
 **Thoughts:** I enjoyed seeing what JS can do and getting hands on. This video used a lot of pseudo in styling, which I haven't used as much; it did help to see it.
 
 **Link to work:** <a href="https://github.com/Kelso333/todolistapp/tree/master" target="_blank">Todo List App_Code</a>
+
+
+### Day 11: October 4, 2017 
+
+**Today's Progress**: Started to mess around with NodeJS and Express. Building a small app without Express generator.
+
+**Thoughts:** Express is something new to me but I will understand it as I practice and build projects with it.
+
+**Link to work:** <a href="https://github.com/Kelso333/first-node-express" target="_blank">Todo List App_Code</a>
 
