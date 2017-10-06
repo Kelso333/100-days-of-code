@@ -91,7 +91,7 @@
 
 ### Day 11: October 4, 2017 
 
-**Today's Progress**: Started to mess around with NodeJS and Express. Building a small app without Express generator.
+**Today's Progress**: Started to play around with Express; building a small todo app without Express generator.
 
 **Thoughts:** I know the fundamentals, but Express is something new to me. I will understand it as I practice and build projects with it.
 
@@ -103,6 +103,15 @@
 **Today's Progress**: Added views folder and passed data to a view. Created a 'todos' route and also added our own middleware. 
 
 **Thoughts:** It's getting a bit confusing but overall, it's great review and practice!
+
+**Link to work:** <a href="https://github.com/Kelso333/first-node-express" target="_blank">Todo Express App_Code</a>
+
+
+### Day 13: October 6, 2017 
+
+**Today's Progress**: Finished the todo list app with Express. Installed and mounted body-parser middleware. 
+
+**Thoughts:** It felt good to touch Express again. Excited to continue getting more practice.
 
 **Link to work:** <a href="https://github.com/Kelso333/first-node-express" target="_blank">Todo Express App_Code</a>
 
