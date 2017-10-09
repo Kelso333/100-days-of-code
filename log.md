@@ -115,3 +115,11 @@
 
 **Link to work:** <a href="https://github.com/Kelso333/first-node-express" target="_blank">Todo Express App_Code</a>
 
+
+### Day 14: October 8, 2017 
+
+**Today's Progress**: Got the home page started. We will be working on web responsive as we go, using HTML5 and CSS3. 
+
+**Thoughts:** I'm excited to finally get hands on with web responsive. 
+
+**Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Todo Express App_Code</a>
