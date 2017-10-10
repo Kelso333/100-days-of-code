@@ -122,7 +122,7 @@
 
 **Thoughts:** I'm excited to finally get hands on with web responsive. 
 
-**Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Acme Web Design site</a>
+**Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Acme Web Design Site_Code</a>
 
 
 ### Day 15: October 9, 2017 
@@ -131,4 +131,13 @@
 
 **Thoughts:** It was good practice overall with both HTML and CSS. I enjoyed using media queries and learning web responsive. Looking forward for more practice.  
 
-**Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Acme Web Design site</a>
+**Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Acme Web Design Site_Code</a>
+
+
+### Day 16: October 10, 2017 
+
+**Today's Progress**: Developing a web responsive site. Got the structure for the home page started. Looking forward to this project. 
+
+**Thoughts:** It's a great start; the way to break things down differently. This and other videos help oneself understand where to start and how to start. Excited to get this site responsive.  
+
+**Link to work:** <a href="https://github.com/Kelso333/rocket-design-responsive" target="_blank">Rocket Design Site_Code</a>
