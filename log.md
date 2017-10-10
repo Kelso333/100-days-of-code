@@ -123,3 +123,12 @@
 **Thoughts:** I'm excited to finally get hands on with web responsive. 
 
 **Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Todo Express App_Code</a>
+
+
+### Day 15: October 9, 2017 
+
+**Today's Progress**: Started working on the about and services page. Added more CSS and used media queries to make the site responsive. 
+
+**Thoughts:** It was good practice overall with both HTML and CSS. I enjoyed using media queries and learning web responsive. Looking forward for more practice.  
+
+**Link to work:** <a href="https://github.com/Kelso333/acmewebdesign" target="_blank">Todo Express App_Code</a>
