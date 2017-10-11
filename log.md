@@ -141,3 +141,12 @@
 **Thoughts:** It's a great start; the way to break things down differently. This and other videos help oneself understand where to start and how to start. Excited to get this site responsive.  
 
 **Link to work:** <a href="https://github.com/Kelso333/rocket-design-responsive" target="_blank">Rocket Design Site_Code</a>
+
+
+### Day 17: October 11, 2017 
+
+**Today's Progress**: Started on styling. Organizing the layout for every content on the page. 
+
+**Thoughts:** Enjoying the development of the site. Learning a lot in different ways of structuring.  
+
+**Link to work:** <a href="https://github.com/Kelso333/rocket-design-responsive" target="_blank">Rocket Design Site_Code</a>
