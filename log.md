@@ -150,3 +150,12 @@
 **Thoughts:** Enjoying the development of the site. Learning a lot in different ways of structuring.  
 
 **Link to work:** <a href="https://github.com/Kelso333/rocket-design-responsive" target="_blank">Rocket Design Site_Code</a>
+
+
+### Day 18: October 12, 2017 
+
+**Today's Progress**: Added more styling to the homepage, and successfully made the site resposive.  
+
+**Thoughts:** Web responsive is making sense now. It looks fun as well. Excited to learn more.
+
+**Link to work:** <a href="https://github.com/Kelso333/rocket-design-responsive" target="_blank">Rocket Design Site_Code</a>
