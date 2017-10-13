@@ -167,4 +167,4 @@
 
 **Thoughts:** JS and jQuery are great together. Can't wait to understand both a bit more. 
 
-**Link to work:** <a href="https://github.com/Kelso333/github-finder-app" target="_blank">GitHub Finder_Code</a>
+**Link to work:** <a href="https://github.com/Kelso333/github-finder-app" target="_blank">GitHub Finder App_Code</a>
