@@ -154,8 +154,17 @@
 
 ### Day 18: October 12, 2017 
 
-**Today's Progress**: Added more styling to the homepage, and successfully made the site resposive.  
+**Today's Progress**: Added more styling to the homepage, and successfully made the site resposive. Finished.  
 
 **Thoughts:** Web responsive is making sense now. It looks fun as well. Excited to learn more.
 
 **Link to work:** <a href="https://github.com/Kelso333/rocket-design-responsive" target="_blank">Rocket Design Site_Code</a>
+
+
+### Day 19: October 13, 2017 
+
+**Today's Progress**: Getting hands on with jQuery. Fetching users from GitHub.   
+
+**Thoughts:** JS and jQuery are great together. Can't wait to understand both a bit more. 
+
+**Link to work:** <a href="https://github.com/Kelso333/github-finder-app" target="_blank">GitHub Finder_Code</a>
