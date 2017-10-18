@@ -172,7 +172,7 @@
 
 ### Day 20: October 18, 2017 
 
-**Today's Progress**: Building an app with React; similar to YikYak.   
+**Today's Progress**: Building Full Stack app with React & Node JS; an app similar to YikYak.   
 
 **Thoughts:** Really great start. It reminds me how much I love React, even though it's a bit complex, it's amazing.  
 
