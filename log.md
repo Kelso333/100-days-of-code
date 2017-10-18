@@ -2,7 +2,7 @@
 
 ### Day 1: September 17, 2017 
 
-**Today's Progress**: Started an express app from scratch. 
+**Today's Progress**: Started an Express app from scratch. 
 
 **Thoughts:** The first time I learned Express it was a bit complex for me, but I'm excited to get the hang of it while I continue and practice with some courses and projects. 
 
