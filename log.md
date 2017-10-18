@@ -168,3 +168,12 @@
 **Thoughts:** JS and jQuery are great together. Can't wait to understand both a bit more. 
 
 **Link to work:** <a href="https://github.com/Kelso333/github-finder-app" target="_blank">GitHub Finder App_Code</a>
+
+
+### Day 20: October 18, 2017 
+
+**Today's Progress**: Building an app with React; similar to YikYak.   
+
+**Thoughts:** Really great start. It reminds me how much I love React, even though it's a bit complex, it's amazing.  
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
