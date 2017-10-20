@@ -177,3 +177,12 @@
 **Thoughts:** Really great start. It reminds me how much I love React, even though it's a bit complex, it's amazing.  
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 21: October 19, 2017 
+
+**Today's Progress**: Made a form to add Zones. Added routes and was able to request JSON data to make sure things are being submitted.    
+
+**Thoughts:** Great practice. Excited to continue with React and build this app.   
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
