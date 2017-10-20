@@ -181,7 +181,7 @@
 
 ### Day 21: October 19, 2017 
 
-**Today's Progress**: Made a form to add Zones. Added routes and was able to request JSON data to make sure things are being submitted.    
+**Today's Progress**: Made a form to add Zones. Added routes and was able to request JSON from the database to make sure things are being submitted.    
 
 **Thoughts:** Great practice. Excited to continue with React and build this app.   
 
