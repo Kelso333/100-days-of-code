@@ -186,3 +186,12 @@
 **Thoughts:** Great practice. Excited to continue with React and build this app.   
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 22: October 20, 2017 
+
+**Today's Progress**: Made Zip Codes appear in a new array as oppose to strings. Finished Zone Controller and started Comment Controller.    
+
+**Thoughts:** It's getting a bit more complex, so much to do for React, but enjoying it.    
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
