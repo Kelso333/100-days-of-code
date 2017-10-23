@@ -195,3 +195,12 @@
 **Thoughts:** It's getting a bit more complex, so much to do for React, but enjoying it.    
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 23: October 22, 2017 
+
+**Today's Progress**: Installed webpack and babel modules. Made a webpack.config.js file and made an App Component.    
+
+**Thoughts:** Feels good to get back into React and seeing it being developed from scratch.    
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
