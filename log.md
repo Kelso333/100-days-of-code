@@ -204,3 +204,12 @@
 **Thoughts:** Feels good to get back into React and seeing it being developed from scratch.    
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 24: October 23, 2017 
+
+**Today's Progress**: Created Zones component along with a Zone component to hold the lists. Added build folder to public.   
+
+**Thoughts:** Getting an understanding of React by starting from scratch. A bit complex to comprehend a few times, but overall good stuff. Had a few errors, but managed to figure it out.     
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
