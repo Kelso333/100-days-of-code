@@ -213,3 +213,12 @@
 **Thoughts:** Getting an understanding of React by starting from scratch. A bit complex to comprehend a few times, but overall good stuff. Had a few errors, but managed to figure it out.     
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 25: October 25, 2017 
+
+**Today's Progress**: (pending)   
+
+**Thoughts:** (pending)     
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
