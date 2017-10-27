@@ -217,8 +217,8 @@
 
 ### Day 25: October 25, 2017 
 
-**Today's Progress**: (pending)   
+**Today's Progress**: Made props for the components and added a state to the parent component.    
 
-**Thoughts:** (pending)     
+**Thoughts:** It was great practice to go over components and React again. Looking forward to continue.     
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
