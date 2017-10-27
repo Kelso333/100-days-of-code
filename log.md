@@ -222,3 +222,12 @@
 **Thoughts:** It was great practice to go over components and React again. Looking forward to continue.     
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 26: October 26, 2017 
+
+**Today's Progress**: Added styling to the Zone component. Passed on state and props to components.     
+
+**Thoughts:** React is great, even though it's a bit complex and a lot to do, but I still have love for it.     
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
