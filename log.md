@@ -231,3 +231,12 @@
 **Thoughts:** React is great, even though it's a bit complex and a lot to do, but I still have love for it.     
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 27: October 27, 2017 
+
+**Today's Progress**: Added Bootstrap CDN. Created columns to separate Zones and Comments. Created components for comments. 
+
+**Thoughts:** You do a lot with React to simply have one thing displayed. I like how you have to pass props, something different than the usual ways to build an app/site.       
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
