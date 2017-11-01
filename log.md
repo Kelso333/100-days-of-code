@@ -253,8 +253,8 @@
 
 ### Day 29: October 31, 2017 
 
-**Today's Progress**: pending...
+**Today's Progress**: Created functions in Comments component and passed them onto input. Cloned state to reassign when user inserts new username or comment. 
 
-**Thoughts:** pending...    
+**Thoughts:** Felt good to go over some functions in components. Creating events within that as well was a good practice.   
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
