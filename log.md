@@ -240,3 +240,12 @@
 **Thoughts:** You do a lot with React to simply have one thing displayed. I like how you have to pass props, something different than the usual ways to build an app/site.       
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 28: October 30, 2017 
+
+**Today's Progress**: Used bootstrap classes to style comments component. Added an input for username and comment and a submit button. 
+
+**Thoughts:** It still feels new, but with more practice it will all connect.      
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
