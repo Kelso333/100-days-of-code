@@ -249,3 +249,12 @@
 **Thoughts:** It still feels new, but with more practice it will all connect.      
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 29: October 31, 2017 
+
+**Today's Progress**: pending...
+
+**Thoughts:** pending...    
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
