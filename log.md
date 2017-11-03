@@ -258,3 +258,12 @@
 **Thoughts:** Felt good to go over some functions in components. Creating events within that as well was a good practice.   
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 30: November 2, 2017 
+
+**Today's Progress**: Able to add zones to the Zones component. Styled zone component and installed super agent module. 
+
+**Thoughts:** It's coming together and as usual, it's great practice.
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
