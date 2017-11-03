@@ -267,3 +267,12 @@
 **Thoughts:** It's coming together and as usual, it's great practice.
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 31: November 3, 2017 
+
+**Today's Progress**: Added .gitignore and .env files. Was able to get information for zones and comments from backend. 
+
+**Thoughts:** Backend work is a little hard to understand at the moment, but it's there. I just need more practice. Feels good to play with it again. 
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
