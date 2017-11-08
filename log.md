@@ -276,3 +276,12 @@
 **Thoughts:** Backend work is a little hard to understand at the moment, but it's there. I just need more practice. Feels good to play with it again. 
 
 **Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
+
+
+### Day 32: November 7, 2017 
+
+**Today's Progress**: Created a utils directory and made an APIManager.js file. I got a bug so need to figure out what went wrong. 
+
+**Thoughts:** Talking about APIs can be a bit confusing, but good to go over. A bit lost but excited to see what's next. 
+
+**Link to work:** <a href="https://github.com/Kelso333/yak-yik" target="_blank">Yak Yik App_Code</a>
